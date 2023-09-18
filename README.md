@@ -1,9 +1,9 @@
-# TREINAMENTO DE REDE NEURAL COMPETITIVA (RNC)  
+# 🏃 TREINAMENTO DE REDE NEURAL COMPETITIVA (RNC)  
 
 Projeto desenvolvido para treinamento de rede neural competitiva (RNC)
 
 ---  
-## Tecnologias utilizadas  
+## 🧰 Tecnologias utilizadas  
 ```python
 # IMPORTAÇÃO DE BIBLIOTECAS
 
@@ -13,12 +13,12 @@ from tqdm import tqdm
 import matplotlib.pyplot as plt
 ```
 ---  
-## Licença  
-
+## ©️ Licença  
+Distribuído sob a licença MIT. Veja `LICENSE`para informações adicionais.    
 
 ---  
 
-## Contato  
+## 📫 Contato  
 Autora: Carla Edila Silveira  
 E-mail: rosa.carla@pucpr.edu.br  
 
