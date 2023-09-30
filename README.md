@@ -1,6 +1,5 @@
 # 🏃 TREINAMENTO DE REDE NEURAL COMPETITIVA (RNC)  
-
-Projeto desenvolvido para treinamento de rede neural competitiva (RNC)
+<p align='justify'>Projeto desenvolvido para treinamento de rede neural competitiva (RNC) com a finalidade de identificar grupos de elementos (veículos automotores) de acordo com correlações identificadas entre as variáveis de cilindrada (medida em litros) e eficiência (medida em km/L).</p>
 
 ---  
 ## 🧰 Tecnologias utilizadas  
